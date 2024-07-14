@@ -1,0 +1,12 @@
+*.csproj
+*.sln
+.vs/
+.idea/
+Build/
+Library/
+Logs/
+obj/
+Temp/
+UserSettings/
+Assets/
+Packages/com.unity.asset-store-tools/
