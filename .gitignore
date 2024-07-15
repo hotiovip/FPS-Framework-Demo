@@ -8,5 +8,8 @@ Logs/
 obj/
 Temp/
 UserSettings/
-Assets/
+Assets/Opsive
+Assets/Tutorials
+Assets/Military
+Assets/FPSStarterKit1
 Packages/com.unity.asset-store-tools/
