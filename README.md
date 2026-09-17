@@ -1,4 +1,4 @@
-# FPS Animation Framework Demo
+# FPS Animation Framework Demo (NOT FINISHED)
 
 To get the project working:
 
